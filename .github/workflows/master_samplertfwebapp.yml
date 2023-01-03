@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'SampleRTFWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_72A0E0E9108D453D806F6FA92B67C287 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C4BEC367F21A45848F0E0EF79C5E8CF4 }}
           package: .
